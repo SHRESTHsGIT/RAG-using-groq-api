@@ -10,3 +10,4 @@ chromadb
 huggingface-hub
 pypdf
 python-dotenv
+sentence-transformers
